@@ -15,4 +15,6 @@ The website has 2 options of viewing the data:
 * The first, "By Champion" shows the stats for the use of changed items, for the selected champion, in the selected region(or globally, option "ALL").
 * The second, "By Item", shows the stats for the use of changed items by region(or globally, option "ALL").
 
+We used [Bootstrap v3.3.5](http://getbootstrap.com/), [jQuery 2.1.4](http://jquery.com/) and [Tooltipster 3.0(jQuery plugin)](http://iamceege.github.io/tooltipster/).
+
 AP OP isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
