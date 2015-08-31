@@ -1,7 +1,7 @@
 # AP OP
 Project for the Riot Games API Challenge 2.0.
 
-This project is open source and was created for the Riot Games API Challenge 2.0 in about 15 days of hard work.
+This project is open source and was created for the Riot Games API Challenge 2.0, by jp2masa(EUW) and JPauloL(EUW) in about 15 days of hard work.
 
 ##Node.js
 We used 2 Node.js scripts:
