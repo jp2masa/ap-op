@@ -1,0 +1,13 @@
+RewriteBase /
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+
+RewriteRule ^.*$ - [NC,L]
+
+RewriteRule ^([^/]+)$ index.php?q=$1
+RewriteRule ^([^/]+)/([^/]+)$ index.php?q=$1&sort=$2
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)$ index.php?q=$1&sort=$2&champion=$3

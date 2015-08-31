@@ -1,0 +1,211 @@
+.about
+{
+	color: white;
+	font-size: initial;
+}
+
+.alert
+{
+	margin: 16px 0;
+}
+
+body
+{
+	background-attachment: fixed;
+	background-image: url('/img/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Segoe UI";
+}
+
+.brand-image
+{
+	padding: 2px;
+}
+
+.by-champion
+{
+	margin: 32px 0;
+}
+
+.champion-selection
+{
+	text-align: center;
+}
+
+.champion-selection .btn.btn-link
+{
+	margin: 8px;
+	padding: 0px;
+}
+
+.champion-selection img
+{
+	width: 64px;
+}
+
+.content
+{
+	border-radius: 8px;
+	margin: 0 128px;
+	padding: 16px;
+}
+
+.content.text-background
+{
+	background-color: rgba(40, 40, 40, 0.7);
+}
+
+.difference-image
+{
+	width: 24px;
+}
+
+.error
+{
+	color: white;
+	font-size: 120%;
+	text-align: left;
+}
+
+.error a
+{
+	color: #0276FD;
+}
+
+.error a:hover
+{
+	color: #0047B2;
+}
+
+.footer
+{
+	color: white;
+	font-size: initial;
+	margin: 32px;
+}
+
+.footer p
+{
+	margin: 0 16px;
+}
+
+.help-text
+{
+	color: white;
+	font-size: initial;
+	margin: 16px 0;
+}
+
+.home
+{
+	color: white;
+	font-size: initial;
+	text-align: center;
+}
+
+.home a
+{
+	font-weight: bold;
+}
+
+.item-stats
+{
+	color: white;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+.item-stats div
+{
+	display: inline-block;
+	margin: 0;
+	text-align: left;
+}
+
+.item-stats div *
+{
+	margin: 8px;
+}
+
+.item-stats div table
+{
+	display: table-cell;
+	padding: 0 16px;
+	width: 48%;
+}
+
+.item-stats div table tr td
+{
+	vertical-align: middle;
+}
+
+.item-stats div table .title
+{
+	border-top: none;
+}
+
+.item-stats-home
+{
+	color: white;
+	font-size: initial;
+	margin: 0;
+	text-align: center;
+}
+
+.item-stats-home div
+{
+	display: inline-block;
+}
+
+.item-stats-home div table
+{
+	display: table-cell;
+	padding: 0 16px;
+	text-align: left;
+	width: 50%;
+}
+
+.item-stats-home div table .title
+{
+	border-top: none;
+}
+
+.item-tooltip
+{
+	max-width: 400px;
+}
+
+.navbar
+{
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	margin: 48px 128px 32px;
+}
+
+.navbar-brand
+{
+	padding: 8px;
+}
+
+.region-selection
+{
+	text-align: right;
+}
+
+.title
+{
+	color: white;
+	margin: 16px 0;
+}
+
+.tooltip-title
+{
+	margin-top: 0;
+	margin-bottom: 4px;
+}
