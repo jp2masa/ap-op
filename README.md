@@ -3,7 +3,7 @@ Project for the Riot Games API Challenge 2.0.
 
 This project is open source and was created for the Riot Games API Challenge 2.0, by jp2masa (EUW) and JPauloL (EUW) in about 15 days of hard work.
 
-####[Demo Available Here](http://ap-op.tk){:target="_blank"}
+####<a href="http://ap-op.tk" target="_blank">Demo Available Here</a>
 
 ##Node.js
 We used 2 Node.js scripts:
