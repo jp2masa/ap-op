@@ -1,11 +1,11 @@
 # AP OP
-Project for the Riot Games API Challenge 2.0.
 
 This project is open source and was created for the Riot Games API Challenge 2.0, by jp2masa (EUW) and JPauloL (EUW) in about 15 days of hard work.
 
 ####<a href="http://ap-op.tk" target="_blank">Demo Available Here</a>
 
-The logo is Luden's Echo, which is the most recent AP item in League of Legends and much popular too.
+The logo is Luden's Echo, which is the most recent added AP item in League of Legends and much popular too.
+
 We chose the Vi and Ahri vs Blue Background, as Sentinel gives an important buff to AP champions.
 
 ##Node.js
