@@ -5,6 +5,9 @@ This project is open source and was created for the Riot Games API Challenge 2.0
 
 ####<a href="http://ap-op.tk" target="_blank">Demo Available Here</a>
 
+The logo is Luden's Echo, which is the most recent AP item in League of Legends and much popular too.
+We chose the Vi and Ahri vs Blue Background, as Sentinel gives an important buff to AP champions.
+
 ##Node.js
 We used 2 Node.js scripts, to process the matches data:
 
