@@ -44,6 +44,17 @@ body
 	width: 64px;
 }
 
+.champion-title
+{
+	color: white;
+}
+
+.champion-title ing
+{
+	margin-right: 8px;
+	width: 64px;
+}
+
 .content
 {
 	border-radius: 8px;
