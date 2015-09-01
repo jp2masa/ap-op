@@ -444,9 +444,9 @@
 		{
 			$champions_id_name = array();
 			
-			foreach($data_champions["data"] as $champion_name => $champion_array)
+			foreach($data_champions["data"] as $champion_key => $champion_array)
 			{
-				$champions_id_name[$champion_array["key"]] = $champion_name;
+				$champions_id_name[$champion_array["key"]] = $champion_key;
 			}
 ?>
 	<div class="by-champion">
