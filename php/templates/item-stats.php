@@ -129,8 +129,9 @@
 				</div>
 			</form>
 		</div>
+		<h2 class="champion-title"><img src="/img/champions/<?php echo $data_champions["data"][$champion]["id"]; ?>.png"></img><?php echo $data_champions["data"][$champion]["name"]; ?></h2>
 		<div class="help-text">
-			<p>Now you can compare the usage of the AP Items.</p>
+			<p>Now you can compare the usage of the AP Items for this champion.</p>
 		</div>
 <?php
 				if(file_exists("data/by-champion-stats/$region.json"))
